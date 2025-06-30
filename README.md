@@ -1,7 +1,7 @@
 # Hi, I'm <a href="https://www.linkedin.com/in/brianalwillis/">Briana</a>!<br>Welcome to My Portfolio
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
-
+### 👩‍🎓 Bachelor's in Information Technology
+### 📃 CompTIA A+ | CompTIA Network+ | CompTIA Security+ | ITIL 4 Foundation | AWS Certified Cloud Practitioner | Linux Essentials | Google Cybersecurity Professional (In Progress)
 
 ## VULNERABILITY MANAGEMENT PROJECTS 
 
@@ -11,6 +11,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## THREAT HUNTING & SECURITY OPERATIONS 
 
 - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)
+
+## PYTHON PROJECTS 
+
+
 
 <hr/>
 
