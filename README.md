@@ -1,6 +1,6 @@
 # Hi, I'm <a href="https://www.linkedin.com/in/brianalwillis/">Briana</a>!<br>Welcome to My Portfolio
 
-### 👩‍🎓 Bachelor's in Information Technology
+### 👩‍🎓 Bachelor of Science in Information Technology
 ### 📃 CompTIA A+ | CompTIA Network+ | CompTIA Security+ | ITIL 4 Foundation | AWS Certified Cloud Practitioner | Linux Essentials | Google Cybersecurity Professional (In Progress)
 
 ## VULNERABILITY MANAGEMENT PROJECTS 
