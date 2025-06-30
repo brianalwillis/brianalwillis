@@ -1,17 +1,17 @@
 <#
 .SYNOPSIS
-    This PowerShell script ensures that the maximum size of the Windows Application event log is at least 32768 KB (32 MB).
+    This PowerShell script ensures that the outgoing secure channel traffic is encrypted or signed. 
 
 .NOTES
     Author          : Briana Willis
     LinkedIn        : linkedin.com/in/brianalwillis
     GitHub          : github.com/brianalwillis
-    Date Created    : 6-29-2025
-    Last Modified   : 6-29-2025
+    Date Created    : 6-30-2025
+    Last Modified   : 6-30-2025
     Version         : 1.0
     CVEs            : N/A
     Plugin IDs      : N/A
-    STIG-ID         : WN10-AU-000500
+    STIG-ID         : WN10-SO-000035
 
 .TESTED ON
     Date(s) Tested  : 
