@@ -3,7 +3,7 @@
 ### 👩‍🎓 Bachelor of Science in Information Technology
 ### 📃 [CompTIA A+](https://www.credly.com/earner/earned/badge/b053f3c0-6e80-4d2e-bb8c-f8f4f8172a40) | [CompTIA Network+](https://www.credly.com/earner/earned/badge/8ca33678-28c0-4119-b5b4-822a320eb803) | [CompTIA Security+](https://www.credly.com/earner/earned/badge/da5ce54c-26da-4b7e-849b-182c826863c5) | ITIL 4 Foundation | AWS Certified Cloud Practitioner | Linux Essentials | Google Cybersecurity Professional (In Progress)
 
-## VULNERABILITY MANAGEMENT PROJECTS 
+## VULNERABILITY MANAGEMENT PROJECTS
 
 ### ⚠️ [Vulnerability Management Program Implementation](https://github.com/brianalwillis/vulnerability-management-program) 
 ### 🐢 [Programmatic Vulnerability Remediations (PowerShell & BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)
