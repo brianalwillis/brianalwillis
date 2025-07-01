@@ -6,7 +6,7 @@
 ## VULNERABILITY MANAGEMENT PROJECTS
 
 ### ⚠️ [Vulnerability Management Program Implementation](https://github.com/brianalwillis/vulnerability-management-program) 
-### 🐢 [Programmatic Vulnerability Remediations (PowerShell & BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)
+### 🐢 [Programmatic Vulnerability Remediations (PowerShell & BASH)](https://github.com/brianalwillis/programmatic-vulnerability-remediation)
 
 ## THREAT HUNTING & SECURITY OPERATIONS 
 
