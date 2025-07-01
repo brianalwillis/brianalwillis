@@ -8,12 +8,12 @@
 ### - [Vulnerability Management Program Development & Execution](https://github.com/brianalwillis/vulnerability-management-program) 
 ### - [Programmatic Remediation of STIGs](https://github.com/brianalwillis/programmatic-vulnerability-remediation)
 ### - [Programmatic Remediation of CVEs](https://github.com/brianalwillis/programmatic-remediation-CVE) (In Progress)
-### 🧰 Microsoft Azure, Tenable.io, PowerShell, Bash
+### 🧰 Azure, Tenable.io, PowerShell, Bash
 
 ## THREAT HUNTING & SECURITY OPERATIONS 
 
 ### - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)
-### 🧰 Microsoft Azure, Microsoft Sentinel, Microsoft Defender for Endpoint, Microsoft Log Analytics Workspaces, KQL
+### 🧰 Azure, Sentinel, Defender for Endpoint, Log Analytics Workspaces, KQL
 
 ## PYTHON PROJECTS 
 
