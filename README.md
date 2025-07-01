@@ -6,8 +6,8 @@
 ## VULNERABILITY MANAGEMENT PROJECTS
 
 ### - [Vulnerability Management Program Implementation](https://github.com/brianalwillis/vulnerability-management-program) 
-### - [Programmatic Vulnerability STIG Remediation (PowerShell)](https://github.com/brianalwillis/programmatic-vulnerability-remediation)
-### - Programmatic CVE Remediation (In Progress)
+### - [Automated STIG Vulnerability Remediation (using PowerShell)](https://github.com/brianalwillis/programmatic-vulnerability-remediation)
+### - Automated CVE Remediation (In Progress)
 
 ## THREAT HUNTING & SECURITY OPERATIONS 
 
