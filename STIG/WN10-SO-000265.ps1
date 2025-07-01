@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This PowerShell script ensures that the User Account Control elevates UIAccess applications that are installed in secure locations.
+    This PowerShell script ensures the User Account Control elevates UIAccess applications that are installed in secure locations.
 
 .NOTES
     Author          : Briana Willis
