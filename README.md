@@ -13,6 +13,7 @@
 ## THREAT HUNTING & SECURITY OPERATIONS 
 
 ### - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)
+### Platforms & Technologies Used: Microsoft Sentinel, Microsoft Defender for Endpoint, Microsoft Azure, Microsoft Log Analytics Workspaces, KQL MITRE ATT&CK Framework
 
 ## PYTHON PROJECTS 
 
