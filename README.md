@@ -5,7 +5,7 @@
 
 ## VULNERABILITY MANAGEMENT
 
-### - [Vulnerability Management Program Development & Execution](https://github.com/brianalwillis/vulnerability-management-program) 
+### - [Vulnerability Management Program, Development & Execution](https://github.com/brianalwillis/vulnerability-management-program) 
 ### - [Programmatic Remediation of STIGs](https://github.com/brianalwillis/programmatic-vulnerability-remediation)
 ### - [Programmatic Remediation of CVEs](https://github.com/brianalwillis/programmatic-remediation-CVE) (In Progress)
 ### 🧰 Azure, Tenable.io, PowerShell, Bash
