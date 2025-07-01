@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This PowerShell script ensures that the User Account Control elevates UIAccess applications that are installed in secure locations.
+    This PowerShell script ensures that the User Account Control runs all administrators in Admin Approval Mode, enabling UAC.
 
 .NOTES
     Author          : Briana Willis
