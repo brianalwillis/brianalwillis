@@ -5,13 +5,13 @@
 
 ## VULNERABILITY MANAGEMENT PROJECTS
 
-### ⚠️ [Vulnerability Management Program Implementation](https://github.com/brianalwillis/vulnerability-management-program) 
-### 🆔 [Programmatic Vulnerability STIG Remediation (PowerShell)](https://github.com/brianalwillis/programmatic-vulnerability-remediation)
-### 🚨 Programmatic CVE Remediation (In Progress)
+### - [Vulnerability Management Program Implementation](https://github.com/brianalwillis/vulnerability-management-program) 
+### - [Programmatic Vulnerability STIG Remediation (PowerShell)](https://github.com/brianalwillis/programmatic-vulnerability-remediation)
+### - Programmatic CVE Remediation (In Progress)
 
 ## THREAT HUNTING & SECURITY OPERATIONS 
 
-### 🕵️‍♀️ [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)
+### - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)
 
 ## PYTHON PROJECTS 
 
