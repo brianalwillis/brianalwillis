@@ -7,7 +7,7 @@
 
 ### ⚠️ [Vulnerability Management Program Implementation](https://github.com/brianalwillis/vulnerability-management-program) 
 ### 🆔 [Programmatic Vulnerability STIG Remediation (PowerShell)](https://github.com/brianalwillis/programmatic-vulnerability-remediation)
-### 🚨 [Programmatic CVE Remediation (In Progress)
+### 🚨 Programmatic CVE Remediation (In Progress)
 
 ## THREAT HUNTING & SECURITY OPERATIONS 
 
