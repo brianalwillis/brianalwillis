@@ -8,6 +8,7 @@
 ### - [Vulnerability Management Program Development & Execution](https://github.com/brianalwillis/vulnerability-management-program) 
 ### - [Programmatic Remediation of STIGs (PowerShell)](https://github.com/brianalwillis/programmatic-vulnerability-remediation)
 ### - [Programmatic Remediation of CVEs (PowerShell & Bash)](https://github.com/brianalwillis/programmatic-remediation-CVE) (In Progress)
+### Platforms & Technologies Used: Tenable.io, SIEM (Microsoft Sentinel), EDR (Microsoft Defender for Endpoint), Microsoft Azure, PowerShell, Bash
 
 ## THREAT HUNTING & SECURITY OPERATIONS 
 
