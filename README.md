@@ -5,7 +5,7 @@
 
 ## VULNERABILITY MANAGEMENT PROJECTS
 
-### - [Vulnerability Management Program Implementation](https://github.com/brianalwillis/vulnerability-management-program) 
+### - [Vulnerability Management Program Development & Execution](https://github.com/brianalwillis/vulnerability-management-program) 
 ### - [Automated STIG Vulnerability Remediation (using PowerShell)](https://github.com/brianalwillis/programmatic-vulnerability-remediation)
 ### - Automated CVE Remediation (In Progress)
 
