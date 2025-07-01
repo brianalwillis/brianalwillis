@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This PowerShell script ensures that an audit policy using subcategories is enabled. Maintaining an audit trail of system activity logs can help identify configuration errors, troubleshoot service disruptions, and analyze compromises that have occurred, as well as detect attacks.
+    This PowerShell script ensures that an audit policy using subcategories is enabled.
 
 .NOTES
     Author          : Briana Willis
