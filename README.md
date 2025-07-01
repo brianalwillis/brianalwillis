@@ -6,14 +6,14 @@
 ## VULNERABILITY MANAGEMENT
 
 ### - [Vulnerability Management Program Development & Execution](https://github.com/brianalwillis/vulnerability-management-program) 
-### - [Programmatic Remediation of STIGs (PowerShell)](https://github.com/brianalwillis/programmatic-vulnerability-remediation)
-### - [Programmatic Remediation of CVEs (PowerShell & Bash)](https://github.com/brianalwillis/programmatic-remediation-CVE) (In Progress)
-### Platforms & Technologies Used: Tenable.io, Microsoft Azure virtual machines, PowerShell, Bash
+### - [Programmatic Remediation of STIGs](https://github.com/brianalwillis/programmatic-vulnerability-remediation)
+### - [Programmatic Remediation of CVEs](https://github.com/brianalwillis/programmatic-remediation-CVE) (In Progress)
+### 🧰 Tenable.io, Microsoft Azure, PowerShell, Bash
 
 ## THREAT HUNTING & SECURITY OPERATIONS 
 
 ### - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)
-### Platforms & Technologies Used: Microsoft Sentinel, Microsoft Defender for Endpoint, Microsoft Azure, Microsoft Log Analytics Workspaces, KQL MITRE ATT&CK Framework
+### 🧰 Microsoft Azure, Microsoft Sentinel, Microsoft Defender for Endpoint, Microsoft Log Analytics Workspaces, KQL
 
 ## PYTHON PROJECTS 
 
