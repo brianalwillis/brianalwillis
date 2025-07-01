@@ -15,7 +15,7 @@
 ### - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)
 ### 🧰 Azure, Sentinel, Defender for Endpoint, Log Analytics Workspaces, KQL
 
-## PYTHON PROJECTS 
+## PYTHON
 
 
 
