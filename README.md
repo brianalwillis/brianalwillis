@@ -12,7 +12,7 @@
 
 ## THREAT HUNTING & SECURITY OPERATIONS 
 
-### - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)
+### - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/brianalwillis/threat-hunting-scenario-tor/blob/main/README.md)
 ### 🧰 Azure, Sentinel, Defender for Endpoint, KQL
 
 ## SCRIPTING & AUTOMATION
