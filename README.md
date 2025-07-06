@@ -7,7 +7,7 @@
 
 ### - [Vulnerability Management Program, Development & Execution](https://github.com/brianalwillis/vulnerability-management-program) 
 ### - [Programmatic Remediation of STIGs](https://github.com/brianalwillis/programmatic-vulnerability-remediation)
-### - [Programmatic Remediation of CVEs](https://github.com/brianalwillis/programmatic-remediation-CVE) (In Progress)
+### - Programmatic Remediation of CVEs (In Progress)
 ### 🧰 Azure, Tenable, PowerShell, Bash
 
 ## THREAT HUNTING & SECURITY OPERATIONS 
