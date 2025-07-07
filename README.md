@@ -33,7 +33,7 @@
 ![WireShark](https://img.shields.io/badge/-WireShark-8abbd4?style=flat-square&logo=WireShark)
 ![ServiceNow](https://img.shields.io/badge/-ServiceNow-85b7a4?style=flat-square&logo=ServiceNow)
 ![Windows](https://img.shields.io/badge/-Windows-0078d7?style=flat-square&logo=Windows)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-Powershell-5793fa?style=flat-square&logo=Powershell)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
