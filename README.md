@@ -7,15 +7,11 @@
 
 ### - [IT Support at LOG(N) Pacific](https://docs.google.com/document/d/1WcZ9Qxq9uVz84WpdCy7kYp1DztAs-bsZckTrtxtLlHM/edit?tab=t.0)
 
-<img src="https://img.shields.io/badge/-microsoft_azure-0078D4?logo=microsoftazure&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/-tenable-242B75?logo=tenable&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/-windows-0078d7?logo=windows&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white&style=plastic"/>
-
 ## VULNERABILITY MANAGEMENT & REMEDIATION
 
 ### - [Vulnerability Management Program, Development & Execution](https://github.com/brianalwillis/vulnerability-management-program) 
 ### - [Programmatic Remediation of STIGs](https://github.com/brianalwillis/programmatic-vulnerability-remediation)
 ### - Programmatic Remediation of CVEs (In Progress)
-
-<img src="https://img.shields.io/badge/-microsoft_azure-0078D4?logo=microsoftazure&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/-tenable-242B75?logo=tenable&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/-powershell-5793fa?logo=powershell&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/-bash-4EAA25?logo=gnubash&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/-windows-0078d7?logo=windows&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white&style=plastic"/> 
 
 ## THREAT HUNTING & SECURITY OPERATIONS 
 
@@ -24,19 +20,9 @@
 ### - Threat Hunting Scenario (Devices Exposed to the Internet) (In Progress)
 ### - Threat Hunting Scenario (Phishing Email) (In Progress)
 
-<img src="https://img.shields.io/badge/-microsoft_azure-0078D4?logo=microsoftazure&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/-microsoft_sentinel-5cb2f1?logo=microsoft_sentinel&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/-microsoft_defender-1087da?logo=microsoft_defender&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/-kql-36336e?logo=kql&logoColor=white&style=plastic"/>
-
 ## SCRIPTING & AUTOMATION
 
 
+## TECHNICAL SKILLS
 
-## CONNECT WITH ME 
-
-[<img align="left" alt="Briana Willis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/brianalwillis
-
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
+<img src="https://img.shields.io/badge/-tenable-242B75?logo=tenable&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/-microsoft_azure-0078D4?logo=microsoftazure&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/-microsoft_sentinel-5cb2f1?logo=microsoft_sentinel&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/-microsoft_defender-1087da?logo=microsoft_defender&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/-windows-0078d7?logo=windows&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/-powershell-5793fa?logo=powershell&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/-bash-4EAA25?logo=gnubash&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/-sql-5397dc?logo=sql&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/-kql-36336e?logo=kql&logoColor=white&style=plastic"/>
