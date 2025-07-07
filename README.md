@@ -25,4 +25,14 @@
 
 ## TECHNICAL SKILLS
 
-<img src="https://img.shields.io/badge/-tenable-242B75?logo=tenable&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/-microsoft_azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/-microsoft_sentinel-5cb2f1?logo=microsoft_sentinel&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/-microsoft_defender-1087da?logo=microsoft_defender&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/-windows-0078d7?logo=windows&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/-powershell-5793fa?logo=powershell&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/-bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/-sql-5397dc?logo=sql&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/-kql-36336e?logo=kql&logoColor=white&style=for-the-badge"/>
+![Tenable](https://img.shields.io/badge/-Tenable-242B75?style=flat-square&logo=Tenable) 
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=flat-square&logo=Microsoft_Azure)
+![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft_Sentinel-5cb2f1?style=flat-square&logo=Microsoft_Sentinel)
+![Microsoft Defender](https://img.shields.io/badge/-Microsoft_Defender-1087da?style=flat-square&logo=Microsoft_Defender)
+![Windows](https://img.shields.io/badge/-Windows-0078d7?style=flat-square&logo=Windows)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-Powershell-5793fa?style=flat-square&logo=Powershell)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-5397dc?style=flat-square&logo=SQL)
+![KQL](https://img.shields.io/badge/-KQL-36336e?style=flat-square&logo=KQL)
