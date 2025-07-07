@@ -5,9 +5,9 @@
 
 ![CompTIA](https://img.shields.io/badge/-CompTIA-C8202F?style=flat-square)
 ![AWS](https://img.shields.io/badge/-AWS-1d242e?style=flat-square)
+![Google](https://img.shields.io/badge/-Google-4285F4?style=flat-square)
 ![ITIL](https://img.shields.io/badge/-ITIL-602b5f?style=flat-square)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square)
-![Google](https://img.shields.io/badge/-Google-4285F4?style=flat-square)
 
 ## IT SUPPORT / TROUBLESHOOTING / USER AWARENESS TRAINING
 
