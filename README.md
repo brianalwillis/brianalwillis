@@ -41,8 +41,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-663399?style=flat-square&logo=css)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-5397dc?style=flat-square&logo=SQL)
-![KQL](https://img.shields.io/badge/-KQL-36336e?style=flat-square&logo=KQL)
 ![PowerShell](https://img.shields.io/badge/-Powershell-5793fa?style=flat-square&logo=Powershell)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
+![SQL](https://img.shields.io/badge/-SQL-5397dc?style=flat-square&logo=SQL)
+![KQL](https://img.shields.io/badge/-KQL-36336e?style=flat-square&logo=KQL)
