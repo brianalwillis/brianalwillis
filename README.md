@@ -22,8 +22,7 @@
 
 ## SCRIPTING & AUTOMATION
 
-
-## TECH, TOOLS, & LANGUAGES
+## TECHNOLOGY
 
 ![Tenable](https://img.shields.io/badge/-Tenable-242B75?style=flat-square&logo=Tenable) 
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=flat-square&logo=Microsoft_Azure)
@@ -35,8 +34,15 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Windows](https://img.shields.io/badge/-Windows-0078d7?style=flat-square&logo=Windows)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+## LANGUAGES
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-663399?style=flat-square&logo=css)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-Powershell-5793fa?style=flat-square&logo=Powershell)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-5397dc?style=flat-square&logo=SQL)
 ![KQL](https://img.shields.io/badge/-KQL-36336e?style=flat-square&logo=KQL)
+
