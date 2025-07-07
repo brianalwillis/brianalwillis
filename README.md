@@ -23,12 +23,15 @@
 ## SCRIPTING & AUTOMATION
 
 
-## TECHNICAL SKILLS
+## TECH, TOOLS, & LANGUAGES
 
 ![Tenable](https://img.shields.io/badge/-Tenable-242B75?style=flat-square&logo=Tenable) 
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=flat-square&logo=Microsoft_Azure)
+![Azure Active Directory](https://img.shields.io/badge/-Azure_Active_Directory-0b7cdf?style=flat-square&logo=Azure_Active_Directory)
 ![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft_Sentinel-5cb2f1?style=flat-square&logo=Microsoft_Sentinel)
 ![Microsoft Defender](https://img.shields.io/badge/-Microsoft_Defender-1087da?style=flat-square&logo=Microsoft_Defender)
+![WireShark](https://img.shields.io/badge/-WireShark-8abbd4?style=flat-square&logo=WireShark)
+![ServiceNow](https://img.shields.io/badge/-ServiceNow-85b7a4?style=flat-square&logo=ServiceNow)
 ![Windows](https://img.shields.io/badge/-Windows-0078d7?style=flat-square&logo=Windows)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
