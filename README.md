@@ -5,14 +5,14 @@
 
 ## IT SUPPORT & TROUBLESHOOTING
 ### - [IT Support at LOG(N) Pacific](https://docs.google.com/document/d/1WcZ9Qxq9uVz84WpdCy7kYp1DztAs-bsZckTrtxtLlHM/edit?tab=t.0)
-### 🧰 Azure, Tenable, Windows, Linux
+### 🧰 Environment & Tools Used: Azure, Tenable, Windows, Linux
 
 ## VULNERABILITY MANAGEMENT & REMEDIATION
 
 ### - [Vulnerability Management Program, Development & Execution](https://github.com/brianalwillis/vulnerability-management-program) 
 ### - [Programmatic Remediation of STIGs](https://github.com/brianalwillis/programmatic-vulnerability-remediation)
 ### - Programmatic Remediation of CVEs (In Progress)
-### 🧰 Azure, Tenable, Python, PowerShell, Bash, Windows, Linux
+### 🧰 Environment & Tools Used: Azure, Tenable, Python, PowerShell, Bash, Windows, Linux
 
 ## THREAT HUNTING & SECURITY OPERATIONS 
 
@@ -20,7 +20,7 @@
 ### - Threat Hunting Scenario (__Data Exfiltration__) (In Progress)
 ### - Threat Hunting Scenario (Devices Exposed to the Internet) (In Progress)
 ### - Threat Hunting Scenario (Phishing Email) (In Progress)
-### 🧰 Azure, Sentinel, Defender for Endpoint, KQL
+### 🧰 Environment & Tools Used: Azure, Sentinel, Defender for Endpoint, KQL
 
 ## SCRIPTING & AUTOMATION
 
