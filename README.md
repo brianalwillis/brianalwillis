@@ -6,14 +6,16 @@
 ## IT SUPPORT & TROUBLESHOOTING
 
 ### - [IT Support at LOG(N) Pacific](https://docs.google.com/document/d/1WcZ9Qxq9uVz84WpdCy7kYp1DztAs-bsZckTrtxtLlHM/edit?tab=t.0)
-### 🧰 Skills: Azure, Tenable, Windows, Linux
+
+<img src="https://img.shields.io/badge/-microsoft_azure-0078D4?logo=microsoftazure&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/-tenable-242B75?logo=tenable&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/-windows-0078d7?logo=windows&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white&style=plastic"/>
 
 ## VULNERABILITY MANAGEMENT & REMEDIATION
 
 ### - [Vulnerability Management Program, Development & Execution](https://github.com/brianalwillis/vulnerability-management-program) 
 ### - [Programmatic Remediation of STIGs](https://github.com/brianalwillis/programmatic-vulnerability-remediation)
 ### - Programmatic Remediation of CVEs (In Progress)
-### 🧰 Skills: Azure, Tenable, Python, PowerShell, Bash, Windows, Linux
+
+<img src="https://img.shields.io/badge/-microsoft_azure-0078D4?logo=microsoftazure&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/-tenable-242B75?logo=tenable&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/-powershell-5793fa?logo=powershell&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/-bash-4EAA25?logo=gnubash&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/-windows-0078d7?logo=windows&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white&style=plastic"/> 
 
 ## THREAT HUNTING & SECURITY OPERATIONS 
 
@@ -21,7 +23,8 @@
 ### - Threat Hunting Scenario (__Data Exfiltration__) (In Progress)
 ### - Threat Hunting Scenario (Devices Exposed to the Internet) (In Progress)
 ### - Threat Hunting Scenario (Phishing Email) (In Progress)
-### 🧰 Skills: Azure, Sentinel, Defender for Endpoint, KQL
+
+<img src="https://img.shields.io/badge/-microsoft_azure-0078D4?logo=microsoftazure&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/-microsoft_sentinel-5cb2f1?logo=microsoft_sentinel&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/-microsoft_defender-1087da?logo=microsoft_defender&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/-kql-36336e?logo=kql&logoColor=white&style=plastic"/>
 
 ## SCRIPTING & AUTOMATION
 
