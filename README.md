@@ -15,10 +15,10 @@
 
 ## THREAT HUNTING & SECURITY OPERATIONS 
 
-### - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/brianalwillis/threat-hunting-scenario-tor/blob/main/README.md)
-### - Threat Hunting Scenario (__Data Exfiltration__) (In Progress)
-### - Threat Hunting Scenario (Devices Exposed to the Internet) (In Progress)
-### - Threat Hunting Scenario (Phishing Email) (In Progress)
+### - [Unauthorized Tor Browser Usage](https://github.com/brianalwillis/threat-hunting-scenario-tor/blob/main/README.md)
+### - Data Exfiltration (In Progress)
+### - Devices Exposed to the Internet (In Progress)
+### - Phishing Email (In Progress)
 
 ## SCRIPTING & AUTOMATION
 
