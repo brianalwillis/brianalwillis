@@ -11,20 +11,20 @@
 
 ## IT SUPPORT / TROUBLESHOOTING / USER AWARENESS TRAINING
 
-### - [IT Support at LOG(N) Pacific](https://docs.google.com/document/d/1WcZ9Qxq9uVz84WpdCy7kYp1DztAs-bsZckTrtxtLlHM/edit?tab=t.0)
+### • [IT Support at LOG(N) Pacific](https://docs.google.com/document/d/1WcZ9Qxq9uVz84WpdCy7kYp1DztAs-bsZckTrtxtLlHM/edit?tab=t.0)
 
 ## VULNERABILITY MANAGEMENT / REMEDIATION
 
-### - [Vulnerability Management Program, Development & Execution](https://github.com/brianalwillis/vulnerability-management-program) 
-### - [Programmatic Remediation of STIGs](https://github.com/brianalwillis/programmatic-vulnerability-remediation)
-### - Programmatic Remediation of CVEs (In Progress)
+### • [Vulnerability Management Program, Development & Execution](https://github.com/brianalwillis/vulnerability-management-program) 
+### • [Programmatic Remediation of STIGs](https://github.com/brianalwillis/programmatic-vulnerability-remediation)
+### • Programmatic Remediation of CVEs (In Progress)
 
 ## THREAT HUNTING / SECURITY OPERATIONS 
 
-### - [Unauthorized Tor Browser Usage](https://github.com/brianalwillis/threat-hunting-scenario-tor/blob/main/README.md)
-### - Data Exfiltration (In Progress)
-### - Devices Exposed to the Internet (In Progress)
-### - Phishing Email (In Progress)
+### • [Unauthorized Tor Browser Usage](https://github.com/brianalwillis/threat-hunting-scenario-tor/blob/main/README.md)
+### • Data Exfiltration (In Progress)
+### • Devices Exposed to the Internet (In Progress)
+### • Phishing Email (In Progress)
 
 ## SCRIPTING & AUTOMATION
 
