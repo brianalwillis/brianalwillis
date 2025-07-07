@@ -34,6 +34,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Windows](https://img.shields.io/badge/-Windows-0078d7?style=flat-square&logo=Windows)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/-AWS-1d242e?style=flat-square&logo=AWS)
 
 ## LANGUAGES
 
