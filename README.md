@@ -32,6 +32,7 @@
 ![Microsoft Defender](https://img.shields.io/badge/-Microsoft_Defender-1087da?style=flat-square&logo=Microsoft_Defender)
 ![WireShark](https://img.shields.io/badge/-WireShark-8abbd4?style=flat-square&logo=WireShark)
 ![ServiceNow](https://img.shields.io/badge/-ServiceNow-85b7a4?style=flat-square&logo=ServiceNow)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Windows](https://img.shields.io/badge/-Windows-0078d7?style=flat-square&logo=Windows)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
