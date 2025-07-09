@@ -19,7 +19,7 @@
 ### • [Programmatic Remediation of STIGs](https://github.com/brianalwillis/programmatic-vulnerability-remediation)
 ### • Programmatic Remediation of CVEs (In Progress)
 
-## THREAT HUNTING / SECURITY OPERATIONS 
+## THREAT HUNTING / INCIDENT RESPONSE / SECURITY OPERATIONS 
 
 ### • [Unauthorized Tor Browser Usage](https://github.com/brianalwillis/threat-hunting-scenario-tor/blob/main/README.md)
 ### • Escalation of Privileges & Data Exfiltration (Linux)
