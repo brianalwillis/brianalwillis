@@ -22,7 +22,7 @@
 ## THREAT HUNTING / SECURITY OPERATIONS 
 
 ### • [Unauthorized Tor Browser Usage](https://github.com/brianalwillis/threat-hunting-scenario-tor/blob/main/README.md)
-### • Data Exfiltration (In Progress)
+### • Escalation of Privileges & Data Exfiltration (In Progress)
 ### • Devices Exposed to the Internet (In Progress)
 ### • Phishing Email (In Progress)
 
