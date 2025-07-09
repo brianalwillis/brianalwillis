@@ -22,7 +22,7 @@
 ## THREAT HUNTING / INCIDENT RESPONSE / SECURITY OPERATIONS 
 
 ### • [Unauthorized Tor Browser Usage](https://github.com/brianalwillis/threat-hunting-scenario-tor/blob/main/README.md)
-### • Escalation of Privileges & Data Exfiltration (Linux)
+### • [Escalation of Privileges & Data Exfiltration (Linux)](https://github.com/brianalwillis/incident-response-linux/blob/main/README.md)
 ### • Devices Exposed to the Internet (In Progress)
 ### • Phishing Email (In Progress)
 
