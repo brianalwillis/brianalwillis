@@ -9,6 +9,10 @@
 ![ITIL](https://img.shields.io/badge/-ITIL-602b5f?style=flat-square)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square)
 
+## CYBERSECURITY LAB INFRASTRUCTURE
+
+### • [Creating a Virtual Home Lab](https://github.com/brianalwillis/virtual-home-lab/blob/main/README.md)
+
 ## IT SUPPORT / TROUBLESHOOTING / USER AWARENESS TRAINING
 
 ### • [IT Support at LOG(N) Pacific](https://docs.google.com/document/d/1WcZ9Qxq9uVz84WpdCy7kYp1DztAs-bsZckTrtxtLlHM/edit?tab=t.0)
