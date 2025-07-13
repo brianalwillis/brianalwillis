@@ -7,7 +7,7 @@
 ## CYBERSECURITY LAB INFRASTRUCTURE
 
 ### • [Creating a Virtual Home Lab](https://github.com/brianalwillis/virtual-home-lab/blob/main/README.md)
-### • [Home Lab - Attack and Defense](https://github.com/brianalwillis/virtual-home-lab/blob/main/attack-defense.md)
+### • [Home Lab - Attack and Defend](https://github.com/brianalwillis/virtual-home-lab/blob/main/attack-defend.md)
 
 ## INFORMATION TECHNOLOGY
 
