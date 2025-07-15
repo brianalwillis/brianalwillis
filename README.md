@@ -4,15 +4,15 @@
 ### Bachelor of Science in Information Technology
 ### [CompTIA A+](https://www.credly.com/earner/earned/badge/b053f3c0-6e80-4d2e-bb8c-f8f4f8172a40) | [CompTIA Network+](https://www.credly.com/earner/earned/badge/8ca33678-28c0-4119-b5b4-822a320eb803) | [CompTIA Security+](https://www.credly.com/earner/earned/badge/da5ce54c-26da-4b7e-849b-182c826863c5) | [AWS Certified Cloud Practitioner](https://www.credly.com/earner/earned/badge/6f187de9-6d92-4634-b4a7-d0c02943d1af) | [Linux Essentials](https://www.credly.com/earner/earned/badge/043dea14-3383-4b88-86bd-e26f7be1d630) | [Google Cybersecurity Professional](https://www.credly.com/earner/earned/badge/bbe5b941-760f-4552-803f-c85c04d2a9c9) | ITIL 4 Foundation
 
-## INFORMATION TECHNOLOGY SUPPORT
-
-### • [IT Support](https://docs.google.com/document/d/1WcZ9Qxq9uVz84WpdCy7kYp1DztAs-bsZckTrtxtLlHM/edit?tab=t.0)
-
 ## HOME LAB PROJECTS
 
 ### • [Creating a Virtual Home Lab](https://github.com/brianalwillis/virtual-home-lab/blob/main/README.md)
 ### • [Home Lab - Attack and Defend](https://github.com/brianalwillis/virtual-home-lab/blob/main/attack-defend.md)
 ### • [Home Lab - Active Directory](https://github.com/brianalwillis/virtual-home-lab/blob/main/active-directory.md)
+
+## INFORMATION TECHNOLOGY SUPPORT
+
+### • [IT Support](https://docs.google.com/document/d/1WcZ9Qxq9uVz84WpdCy7kYp1DztAs-bsZckTrtxtLlHM/edit?tab=t.0)
 
 ## VULNERABILITY MANAGEMENT / REMEDIATION
 
