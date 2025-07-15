@@ -12,6 +12,7 @@
 
 ### • [Creating a Virtual Home Lab](https://github.com/brianalwillis/virtual-home-lab/blob/main/README.md)
 ### • [Home Lab - Attack and Defend](https://github.com/brianalwillis/virtual-home-lab/blob/main/attack-defend.md)
+### • [Home Lab - Active Directory](https://github.com/brianalwillis/virtual-home-lab/blob/main/active-directory.md)
 
 ## VULNERABILITY MANAGEMENT / REMEDIATION
 
