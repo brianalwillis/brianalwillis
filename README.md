@@ -8,7 +8,7 @@
 
 ### • [IT Support](https://docs.google.com/document/d/1WcZ9Qxq9uVz84WpdCy7kYp1DztAs-bsZckTrtxtLlHM/edit?tab=t.0)
 
-## CYBERSECURITY LAB INFRASTRUCTURE
+## HOME LAB PROJECTS
 
 ### • [Creating a Virtual Home Lab](https://github.com/brianalwillis/virtual-home-lab/blob/main/README.md)
 ### • [Home Lab - Attack and Defend](https://github.com/brianalwillis/virtual-home-lab/blob/main/attack-defend.md)
