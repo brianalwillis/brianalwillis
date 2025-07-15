@@ -18,18 +18,10 @@
 ### • [Vulnerability Management Program, Development & Execution](https://github.com/brianalwillis/vulnerability-management-program) 
 ### • [Programmatic Remediation of STIGs](https://github.com/brianalwillis/programmatic-vulnerability-remediation)
 
-### • Programmatic Remediation of CVEs (In Progress)
-
 ## THREAT HUNTING / INCIDENT RESPONSE / SECURITY OPERATIONS 
 
 ### • [Unauthorized Tor Browser Usage](https://github.com/brianalwillis/threat-hunting-scenario-tor/blob/main/README.md)
 ### • [Escalation of Privileges & Data Exfiltration (Linux)](https://github.com/brianalwillis/incident-response-linux/blob/main/README.md)
-
-### • Devices Exposed to the Internet (In Progress)
-### • Phishing Email (In Progress)
-
-
-## SCRIPTING & AUTOMATION
 
 ## TECHNOLOGY
 
