@@ -4,28 +4,28 @@
 ### Bachelor of Science in Information Technology
 ### [CompTIA A+](https://www.credly.com/earner/earned/badge/b053f3c0-6e80-4d2e-bb8c-f8f4f8172a40) | [CompTIA Network+](https://www.credly.com/earner/earned/badge/8ca33678-28c0-4119-b5b4-822a320eb803) | [CompTIA Security+](https://www.credly.com/earner/earned/badge/da5ce54c-26da-4b7e-849b-182c826863c5) | [AWS Certified Cloud Practitioner](https://www.credly.com/earner/earned/badge/6f187de9-6d92-4634-b4a7-d0c02943d1af) | [Linux Essentials](https://www.credly.com/earner/earned/badge/043dea14-3383-4b88-86bd-e26f7be1d630) | [Google Cybersecurity Professional](https://www.credly.com/earner/earned/badge/bbe5b941-760f-4552-803f-c85c04d2a9c9) | ITIL 4 Foundation
 
-## HOME LAB PROJECTS
+## 𝗛𝗢𝗠𝗘 𝗟𝗔𝗕 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
 ### • [Step-by-Step Creating a Home Lab](https://github.com/brianalwillis/virtual-home-lab/blob/main/README.md)
 ### • [Home Lab - Attack and Defend](https://github.com/brianalwillis/virtual-home-lab/blob/main/attack-defend.md)
 ### • [Home Lab - Active Directory](https://github.com/brianalwillis/virtual-home-lab/blob/main/active-directory.md)
 ### • [Home Lab - Phishing Email Analysis](https://github.com/brianalwillis/phishing-email-analysis/blob/main/README.md)
 
-## INFORMATION TECHNOLOGY SUPPORT
+## 𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗜𝗢𝗡 𝗧𝗘𝗖𝗛𝗡𝗢𝗟𝗢𝗚𝗬 𝗦𝗨𝗣𝗣𝗢𝗥𝗧
 
 ### • [IT Support](https://docs.google.com/document/d/1WcZ9Qxq9uVz84WpdCy7kYp1DztAs-bsZckTrtxtLlHM/edit?tab=t.0)
 
-## VULNERABILITY MANAGEMENT / REMEDIATION
+## 𝗩𝗨𝗟𝗡𝗘𝗥𝗔𝗕𝗜𝗟𝗜𝗧𝗬 𝗠𝗔𝗡𝗔𝗚𝗘𝗠𝗘𝗡𝗧 / 𝗥𝗘𝗠𝗘𝗗𝗜𝗔𝗧𝗜𝗢𝗡
 
 ### • [Vulnerability Management Program, Development & Execution](https://github.com/brianalwillis/vulnerability-management-program) 
 ### • [Programmatic Remediation of STIGs](https://github.com/brianalwillis/programmatic-vulnerability-remediation)
 
-## THREAT HUNTING / INCIDENT RESPONSE / SECURITY OPERATIONS 
+## 𝗧𝗛𝗥𝗘𝗔𝗧 𝗛𝗨𝗡𝗧𝗜𝗡𝗚 / 𝗜𝗡𝗖𝗜𝗗𝗘𝗡𝗧 𝗥𝗘𝗦𝗣𝗢𝗡𝗦𝗘 / 𝗦𝗘𝗖𝗨𝗥𝗜𝗧𝗬 𝗢𝗣𝗘𝗥𝗔𝗧𝗜𝗢𝗡𝗦 
 
 ### • [Unauthorized Tor Browser Usage](https://github.com/brianalwillis/threat-hunting-scenario-tor/blob/main/README.md)
 ### • [Escalation of Privileges & Data Exfiltration (Linux)](https://github.com/brianalwillis/incident-response-linux/blob/main/README.md)
 
-## TECHNOLOGY
+## 𝗧𝗘𝗖𝗛𝗡𝗢𝗟𝗢𝗚𝗬
 
 ![Tenable](https://img.shields.io/badge/-Tenable-242B75?style=flat-square&logo=Tenable) 
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=flat-square&logo=Microsoft_Azure)
