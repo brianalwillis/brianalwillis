@@ -44,7 +44,7 @@
 ![Google Sheets](https://img.shields.io/badge/-Google_Sheets-34A853?style=flat-square&logo=GoogleSheets&logoColor=white)
 ![Google Slides](https://img.shields.io/badge/-Google_Slides-FBBC04?style=flat-square&logo=GoogleSlides&logoColor=black)
 
-## LANGUAGES
+## 𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘𝗦
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-663399?style=flat-square&logo=css)
