@@ -1,5 +1,5 @@
 # Hi, I'm <a href="https://www.linkedin.com/in/brianalwillis/">Briana</a>!<br>Welcome to My Portfolio. 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect!-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianalwillis/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lets_Connect!-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianalwillis/)
 
 ### Bachelor of Science in Information Technology
 ### [CompTIA A+](https://www.credly.com/earner/earned/badge/b053f3c0-6e80-4d2e-bb8c-f8f4f8172a40) | [CompTIA Network+](https://www.credly.com/earner/earned/badge/8ca33678-28c0-4119-b5b4-822a320eb803) | [CompTIA Security+](https://www.credly.com/earner/earned/badge/da5ce54c-26da-4b7e-849b-182c826863c5) | [AWS Certified Cloud Practitioner](https://www.credly.com/earner/earned/badge/6f187de9-6d92-4634-b4a7-d0c02943d1af) | [Linux Essentials](https://www.credly.com/earner/earned/badge/043dea14-3383-4b88-86bd-e26f7be1d630) | [Google Cybersecurity Professional](https://www.credly.com/earner/earned/badge/bbe5b941-760f-4552-803f-c85c04d2a9c9) | ITIL 4 Foundation
