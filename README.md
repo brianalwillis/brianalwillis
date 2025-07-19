@@ -20,7 +20,7 @@
 ### • [Vulnerability Management Program, Development & Execution](https://github.com/brianalwillis/vulnerability-management-program) 
 ### • [Programmatic Remediation of STIGs](https://github.com/brianalwillis/programmatic-vulnerability-remediation)
 
-## 𝗧𝗛𝗥𝗘𝗔𝗧 𝗛𝗨𝗡𝗧𝗜𝗡𝗚 / 𝗜𝗡𝗖𝗜𝗗𝗘𝗡𝗧 𝗥𝗘𝗦𝗣𝗢𝗡𝗦𝗘 / 𝗦𝗘𝗖𝗨𝗥𝗜𝗧𝗬 𝗢𝗣𝗘𝗥𝗔𝗧𝗜𝗢𝗡𝗦 
+## 𝗦𝗘𝗖𝗨𝗥𝗜𝗧𝗬 𝗢𝗣𝗘𝗥𝗔𝗧𝗜𝗢𝗡𝗦 / 𝗧𝗛𝗥𝗘𝗔𝗧 𝗛𝗨𝗡𝗧𝗜𝗡𝗚 / 𝗜𝗡𝗖𝗜𝗗𝗘𝗡𝗧 𝗥𝗘𝗦𝗣𝗢𝗡𝗦𝗘
 
 ### • [Unauthorized Tor Browser Usage](https://github.com/brianalwillis/threat-hunting-scenario-tor/blob/main/README.md)
 ### • [Escalation of Privileges & Data Exfiltration (Linux)](https://github.com/brianalwillis/incident-response-linux/blob/main/README.md)
