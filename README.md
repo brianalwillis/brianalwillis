@@ -1,4 +1,4 @@
-# Hi, I'm <a href="https://www.linkedin.com/in/brianalwillis/">*Briana*</a>!<br>Welcome to My Portfolio. 
+# Hi, I'm <a href="https://www.linkedin.com/in/brianalwillis/">Briana</a>!<br>Welcome to My Portfolio. 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lets_Connect!-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianalwillis/)
 
 ### Bachelor of Science in Information Technology
