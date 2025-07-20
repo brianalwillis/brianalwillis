@@ -10,6 +10,7 @@
 ### • [Attack and Defend](https://github.com/brianalwillis/virtual-home-lab/blob/main/attack-defend.md)
 ### • [Active Directory](https://github.com/brianalwillis/virtual-home-lab/blob/main/active-directory.md)
 ### • [Phishing Email Analysis](https://github.com/brianalwillis/phishing-email-analysis/blob/main/README.md)
+### • [Wireshark Packet Analysis](https://github.com/brianalwillis/wireshark-packet-analysis/tree/main)
 
 ## 𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗜𝗢𝗡 𝗧𝗘𝗖𝗛𝗡𝗢𝗟𝗢𝗚𝗬 𝗦𝗨𝗣𝗣𝗢𝗥𝗧
 
