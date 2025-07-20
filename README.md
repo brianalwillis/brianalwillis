@@ -11,7 +11,6 @@
 - ### [*Active Directory*](https://github.com/brianalwillis/virtual-home-lab/blob/main/active-directory.md) 
 - ### [*Phishing Email Analysis*](https://github.com/brianalwillis/phishing-email-analysis/blob/main/README.md)
 - ### [*Wireshark Packet Analysis*](https://github.com/brianalwillis/wireshark-packet-analysis/tree/main)
-</br>
 
 ### ***Technical Skills:*** *VirtualBox, Windows 10, Server 2019, Kali Linux, Ubuntu 22.04, Splunk, Sysmon, Active Directory, Powershell, Bash, Thunderbird, Bitdefender, Email Analysis Tools, Wireshark, Telnet, SSH, TCP/IP, DNS, HTTP/HTTPS, ARP, ICMP*
 
