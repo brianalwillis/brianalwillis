@@ -19,16 +19,16 @@
 
 ## 𝚅𝚄𝙻𝙽𝙴𝚁𝙰𝙱𝙸𝙻𝙸𝚃𝚈 𝙼𝙰𝙽𝙰𝙶𝙴𝙼𝙴𝙽𝚃 / 𝚁𝙴𝙼𝙴𝙳𝙸𝙰𝚃𝙸𝙾𝙽
 
-### • [Vulnerability Management Program, Development & Execution](https://github.com/brianalwillis/vulnerability-management-program) 
+### • [Vulnerability Management Program, Development & Execution:](https://github.com/brianalwillis/vulnerability-management-program) 
 *`Tenable Nessus + Microsoft Azure + Windows 10 + PowerShell + Bash`*
-### • [Programmatic Remediation of STIGs](https://github.com/brianalwillis/programmatic-vulnerability-remediation)
+### • [Programmatic Remediation of STIGs:](https://github.com/brianalwillis/programmatic-vulnerability-remediation)
 *`Windows 10 + PowerShell`*
 
 ## 𝚂𝙴𝙲𝚄𝚁𝙸𝚃𝚈 𝙾𝙿𝙴𝚁𝙰𝚃𝙸𝙾𝙽𝚂 / 𝚃𝙷𝚁𝙴𝙰𝚃 𝙷𝚄𝙽𝚃𝙸𝙽𝙶 / 𝙸𝙽𝙲𝙸𝙳𝙴𝙽𝚃 𝚁𝙴𝚂𝙿𝙾𝙽𝚂𝙴
 
-### • [Unauthorized Tor Browser Usage](https://github.com/brianalwillis/threat-hunting-scenario-tor/blob/main/README.md)
+### • [Unauthorized Tor Browser Usage:](https://github.com/brianalwillis/threat-hunting-scenario-tor/blob/main/README.md)
 *`Microsoft Azure + Microsoft Sentinel (SIEM) + Microsoft Defender for Endpoint (EDR) + Windows 10 + KQL`* 
-### • [Escalation of Privileges & Data Exfiltration](https://github.com/brianalwillis/incident-response-linux/blob/main/README.md)
+### • [Escalation of Privileges & Data Exfiltration:](https://github.com/brianalwillis/incident-response-linux/blob/main/README.md)
 *`Microsoft Azure + Microsoft Sentinel (SIEM) + Microsoft Defender for Endpoint (EDR) + Windows 10 + KQL`* 
 
 ## 𝙸𝙽𝙵𝙾𝚁𝙼𝙰𝚃𝙸𝙾𝙽 𝚃𝙴𝙲𝙷𝙽𝙾𝙻𝙾𝙶𝚈 𝚂𝚄𝙿𝙿𝙾𝚁𝚃
