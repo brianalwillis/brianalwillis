@@ -6,36 +6,33 @@
 
 ## 𝙷𝙾𝙼𝙴 𝙻𝙰𝙱 𝙿𝚁𝙾𝙹𝙴𝙲𝚃𝚂
 
-### • [Creating a Home Lab:](https://github.com/brianalwillis/virtual-home-lab/blob/main/README.md) 
-*`VirtualBox + Windows 10 + Kali Linux`*
-### • [Attack and Defense:](https://github.com/brianalwillis/virtual-home-lab/blob/main/attack-defend.md) 
-*`VirtualBox + Windows 10 + Kali Linux + Splunk + Sysmon`*
-### • [Active Directory:](https://github.com/brianalwillis/virtual-home-lab/blob/main/active-directory.md) 
-*`VirtualBox + Server 2019 (Domain Controller) + Windows (Client) + Active Directory + PowerShell`*
-### • [Phishing Email Analysis:](https://github.com/brianalwillis/phishing-email-analysis/blob/main/README.md)
-*`VirtualBox + Windows 10 + Kali Linux + Thunderbird + Bitdefender (Email Filtering) + Email Analysis Tools`*
-### • [Wireshark Packet Analysis:](https://github.com/brianalwillis/wireshark-packet-analysis/tree/main)
-*`VirtualBox + Wireshark + Ubuntu + Bash + Telnet + SSH + TCP/IP + DNS + HTTP/HTTPS + ARP + ICMP`*
+### • [Creating a Home Lab](https://github.com/brianalwillis/virtual-home-lab/blob/main/README.md) 
+### • [Attack and Defense](https://github.com/brianalwillis/virtual-home-lab/blob/main/attack-defend.md) 
+### • [Active Directory](https://github.com/brianalwillis/virtual-home-lab/blob/main/active-directory.md) 
+### • [Phishing Email Analysis](https://github.com/brianalwillis/phishing-email-analysis/blob/main/README.md)
+### • [Wireshark Packet Analysis](https://github.com/brianalwillis/wireshark-packet-analysis/tree/main)
+
+***Technical Skills:*** *VirtualBox, Windows 10, Server 2019, Kali Linux, Ubuntu 22.04, Splunk, Sysmon, Active Directory, Powershell, Bash, Thunderbird, Bitdefender, Email Analysis Tools, Wireshark, Telnet, SSH, TCP/IP, DNS, HTTP/HTTPS, ARP, ICMP*
 
 ## 𝚅𝚄𝙻𝙽𝙴𝚁𝙰𝙱𝙸𝙻𝙸𝚃𝚈 𝙼𝙰𝙽𝙰𝙶𝙴𝙼𝙴𝙽𝚃 / 𝚁𝙴𝙼𝙴𝙳𝙸𝙰𝚃𝙸𝙾𝙽
 
-### • [Vulnerability Management Program, Development & Execution:](https://github.com/brianalwillis/vulnerability-management-program) 
-*`Tenable Nessus + Microsoft Azure + Windows 10 + PowerShell + Bash`*
-### • [Programmatic Remediation of STIGs:](https://github.com/brianalwillis/programmatic-vulnerability-remediation)
-*`Windows 10 + PowerShell`*
+### • [Vulnerability Management Program](https://github.com/brianalwillis/vulnerability-management-program) 
+### • [Programmatic Remediation of STIGs](https://github.com/brianalwillis/programmatic-vulnerability-remediation)
+
+***Technical Skills:*** *Tenable Nessus, Microsoft Azure, Windows 10, Python, Powershell, Bash*
 
 ## 𝚂𝙴𝙲𝚄𝚁𝙸𝚃𝚈 𝙾𝙿𝙴𝚁𝙰𝚃𝙸𝙾𝙽𝚂 / 𝚃𝙷𝚁𝙴𝙰𝚃 𝙷𝚄𝙽𝚃𝙸𝙽𝙶 / 𝙸𝙽𝙲𝙸𝙳𝙴𝙽𝚃 𝚁𝙴𝚂𝙿𝙾𝙽𝚂𝙴
 
-### • [Unauthorized Tor Browser Usage:](https://github.com/brianalwillis/threat-hunting-scenario-tor/blob/main/README.md)
-*`Microsoft Azure + Microsoft Sentinel (SIEM) + Microsoft Defender for Endpoint (EDR) + Windows 10 + KQL`* 
-### • [Escalation of Privileges & Data Exfiltration:](https://github.com/brianalwillis/incident-response-linux/blob/main/README.md)
-*`Microsoft Azure + Microsoft Sentinel (SIEM) + Microsoft Defender for Endpoint (EDR) + Windows 10 + KQL`* 
+### • [Unauthorized Tor Browser Usage](https://github.com/brianalwillis/threat-hunting-scenario-tor/blob/main/README.md)
+### • [Escalation of Privileges & Data Exfiltration](https://github.com/brianalwillis/incident-response-linux/blob/main/README.md)
+
+***Technical Skills:*** *Microsoft Azure, Microsoft Sentinel (SIEM), Micosoft Defender for Endpoint (EDR), Windows 10, KQL*
 
 ## 𝙸𝙽𝙵𝙾𝚁𝙼𝙰𝚃𝙸𝙾𝙽 𝚃𝙴𝙲𝙷𝙽𝙾𝙻𝙾𝙶𝚈 𝚂𝚄𝙿𝙿𝙾𝚁𝚃
 
 ### • [IT Support](https://docs.google.com/document/d/1WcZ9Qxq9uVz84WpdCy7kYp1DztAs-bsZckTrtxtLlHM/edit?tab=t.0)
 
-## 𝚃𝙴𝙲𝙷𝙽𝙸𝙲𝙰𝙻 𝚂𝙺𝙸𝙻𝙻𝚂
+## 𝙰𝙻𝙻 𝚃𝙴𝙲𝙷𝙽𝙸𝙲𝙰𝙻 𝚂𝙺𝙸𝙻𝙻𝚂
 
 ![Tenable](https://img.shields.io/badge/-Tenable-242B75?style=flat-square&logo=Tenable) 
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=flat-square&logo=Microsoft_Azure)
