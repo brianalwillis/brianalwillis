@@ -7,7 +7,7 @@
 ## 𝙷𝙾𝙼𝙴 𝙻𝙰𝙱 𝙿𝚁𝙾𝙹𝙴𝙲𝚃𝚂
 
 ### • [Creating a Home Lab](https://github.com/brianalwillis/virtual-home-lab/blob/main/README.md)
-### • [Attack and Defend](https://github.com/brianalwillis/virtual-home-lab/blob/main/attack-defend.md)
+### • [Attack and Defense](https://github.com/brianalwillis/virtual-home-lab/blob/main/attack-defend.md)
 ### • [Active Directory](https://github.com/brianalwillis/virtual-home-lab/blob/main/active-directory.md)
 ### • [Phishing Email Analysis](https://github.com/brianalwillis/phishing-email-analysis/blob/main/README.md)
 ### • [Wireshark Packet Analysis](https://github.com/brianalwillis/wireshark-packet-analysis/tree/main)
