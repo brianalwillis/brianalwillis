@@ -6,10 +6,10 @@
 
 ## 𝗛𝗢𝗠𝗘 𝗟𝗔𝗕 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
-### • [Step-by-Step Creating a Home Lab](https://github.com/brianalwillis/virtual-home-lab/blob/main/README.md)
-### • [Home Lab - Attack and Defend](https://github.com/brianalwillis/virtual-home-lab/blob/main/attack-defend.md)
-### • [Home Lab - Active Directory](https://github.com/brianalwillis/virtual-home-lab/blob/main/active-directory.md)
-### • [Home Lab - Phishing Email Analysis](https://github.com/brianalwillis/phishing-email-analysis/blob/main/README.md)
+### • [Creating a Home Lab](https://github.com/brianalwillis/virtual-home-lab/blob/main/README.md)
+### • [Attack and Defend](https://github.com/brianalwillis/virtual-home-lab/blob/main/attack-defend.md)
+### • [Active Directory](https://github.com/brianalwillis/virtual-home-lab/blob/main/active-directory.md)
+### • [Phishing Email Analysis](https://github.com/brianalwillis/phishing-email-analysis/blob/main/README.md)
 
 ## 𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗜𝗢𝗡 𝗧𝗘𝗖𝗛𝗡𝗢𝗟𝗢𝗚𝗬 𝗦𝗨𝗣𝗣𝗢𝗥𝗧
 
