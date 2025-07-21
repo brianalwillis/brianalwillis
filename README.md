@@ -1,12 +1,6 @@
-<div align="center">
-
 <h1>Hi, I'm <a href="https://www.linkedin.com/in/brianalwillis/">Briana</a>!<br>Welcome to My Portfolio.</h1>
-<img width="2000" height="600" alt="Blue Futuristic Technology LinkedIn Background Photo (1)" src="https://github.com/user-attachments/assets/40bd6147-06d8-450b-be02-7c9a9f9f9108" />
-<a href="https://www.linkedin.com/in/brianalwillis/">
-  <img src="https://img.shields.io/badge/LinkedIn-Lets_Connect!-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
 
-</div>
+<img width="2000" height="600" alt="Blue Futuristic Technology LinkedIn Background Photo (2)" src="https://github.com/user-attachments/assets/39f05744-86ea-4379-a38a-29a349e6114b" /></br>
 
 ## 𝙰𝙱𝙾𝚄𝚃 𝙼𝙴
 
