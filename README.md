@@ -34,7 +34,7 @@
 - ### [*Escalation of Privileges and Data Exfiltration*](https://github.com/brianalwillis/incident-response-linux/blob/main/README.md)
 </br>
 
-***Technical Skills:*** *Microsoft Azure, Log Analytics Workspace, Microsoft Sentinel (SIEM), Micosoft Defender for Endpoint (EDR), Network Security Group (NSG) / Firewall, Windows 10, KQL*
+***Technical Skills:*** *Microsoft Azure, Log Analytics Workspace, Microsoft Sentinel (SIEM), Microsoft Defender for Endpoint (EDR), Network Security Group (NSG) / Firewall, Windows 10, KQL*
 
 ## 𝙸𝙽𝙵𝙾𝚁𝙼𝙰𝚃𝙸𝙾𝙽 𝚃𝙴𝙲𝙷𝙽𝙾𝙻𝙾𝙶𝚈 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 (1)
 
