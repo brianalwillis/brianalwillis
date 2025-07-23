@@ -27,7 +27,7 @@
 
 ***Technical Skills:*** *Tenable Nessus, Microsoft Azure, Windows 10, Python, Powershell, Bash*
 
-## 𝚂𝙴𝙲𝚄𝚁𝙸𝚃𝚈 𝙾𝙿𝙴𝚁𝙰𝚃𝙸𝙾𝙽𝚂 / 𝚃𝙷𝚁𝙴𝙰𝚃 𝙷𝚄𝙽𝚃𝙸𝙽𝙶 / 𝙸𝙽𝙲𝙸𝙳𝙴𝙽𝚃 𝚁𝙴𝚂𝙿𝙾𝙽𝚂𝙴 (2)
+## 𝚂𝙴𝙲𝚄𝚁𝙸𝚃𝚈 𝙾𝙿𝙴𝚁𝙰𝚃𝙸𝙾𝙽𝚂 / 𝚃𝙷𝚁𝙴𝙰𝚃 𝙷𝚄𝙽𝚃𝙸𝙽𝙶 / 𝙸𝙽𝙲𝙸𝙳𝙴𝙽𝚃 𝚁𝙴𝚂𝙿𝙾𝙽𝚂𝙴 (3)
 
 - ### [*Implementing a SOC and Honeypot in Microsoft Azure*](https://github.com/brianalwillis/soc-honeypot/tree/main)
 - ### [*Unauthorized Tor Browser Usage*](https://github.com/brianalwillis/threat-hunting-scenario-tor/blob/main/README.md)
