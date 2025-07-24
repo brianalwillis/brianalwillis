@@ -40,6 +40,8 @@
 
 - ### [*IT Support & Troubleshooting*](https://github.com/brianalwillis/it-support)
 
+***Assisted With:*** *Windows OS, Linux, Microsoft Azure, Microsoft Defender for Endpoint, Tenable/Nessus, ANKI, NSG/Firewalls, Command Line Tools, Troubleshooting, Documentation Clarification*
+
 ## 𝙰𝙻𝙻 𝚃𝙴𝙲𝙷𝙽𝙸𝙲𝙰𝙻 𝚂𝙺𝙸𝙻𝙻𝚂
 
 ![Tenable](https://img.shields.io/badge/-Tenable-242B75?style=flat-square&logo=Tenable) 
