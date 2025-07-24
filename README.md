@@ -38,7 +38,7 @@
 
 ## 𝙸𝙽𝙵𝙾𝚁𝙼𝙰𝚃𝙸𝙾𝙽 𝚃𝙴𝙲𝙷𝙽𝙾𝙻𝙾𝙶𝚈 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 (1)
 
-- ### [*IT Support*](https://docs.google.com/document/d/1WcZ9Qxq9uVz84WpdCy7kYp1DztAs-bsZckTrtxtLlHM/edit?tab=t.0)
+- ### [*IT Support & Troubleshooting*](https://github.com/brianalwillis/it-support)
 
 ## 𝙰𝙻𝙻 𝚃𝙴𝙲𝙷𝙽𝙸𝙲𝙰𝙻 𝚂𝙺𝙸𝙻𝙻𝚂
 
