@@ -10,12 +10,7 @@
 
 ## <code>HOME LAB PROJECTS</code>
 
-- ### [*Creating a Home Lab*](https://github.com/brianalwillis/virtual-home-lab/blob/main/README.md) 
-- ### [*Attack and Defense*](https://github.com/brianalwillis/virtual-home-lab/blob/main/attack-defend.md) 
-- ### [*Active Directory*](https://github.com/brianalwillis/virtual-home-lab/blob/main/active-directory.md) 
-- ### [*Phishing Email Analysis*](https://github.com/brianalwillis/phishing-email-analysis/blob/main/README.md)
-- ### [*Wireshark Packet Analysis*](https://github.com/brianalwillis/wireshark-packet-analysis/tree/main)
-</br>
+### • [*Creating a Home Lab*](https://github.com/brianalwillis/virtual-home-lab/blob/main/README.md)</br> • [*Attack and Defense*](https://github.com/brianalwillis/virtual-home-lab/blob/main/attack-defend.md)</br> • [*Active Directory*](https://github.com/brianalwillis/virtual-home-lab/blob/main/active-directory.md)</br> • [*Phishing Email Analysis*](https://github.com/brianalwillis/phishing-email-analysis/blob/main/README.md)</br> • [*Wireshark Packet Analysis*](https://github.com/brianalwillis/wireshark-packet-analysis/tree/main)
 
 ```
 TECHNOLOGY AND PLATFORMS USED:
@@ -25,9 +20,7 @@ Thunderbird, Bitdefender, Email Analysis Tools, Wireshark, Telnet, SSH, TCP/IP, 
 
 ## <code>VULNERABILITY MANAGEMENT | REMEDIATIONS</code>
 
-- ### [*Vulnerability Management Program*](https://github.com/brianalwillis/vulnerability-management-program) 
-- ### [*Programmatic Remediation of STIGs*](https://github.com/brianalwillis/programmatic-vulnerability-remediation)
-</br>
+### • [*Vulnerability Management Program*](https://github.com/brianalwillis/vulnerability-management-program)</br> • [*Programmatic Remediation of STIGs*](https://github.com/brianalwillis/programmatic-vulnerability-remediation)
 
 ```
 TECHNOLOGY AND PLATFORMS USED:
@@ -36,10 +29,7 @@ Tenable Nessus, Microsoft Azure, Windows 10, Python, Powershell, Bash
 
 ## <code>SECURITY OPERATIONS | THREAT HUNTING | INCIDENT RESPONSE</code>
 
-- ### [*Implementing a SOC and Honeypot in Microsoft Azure*](https://github.com/brianalwillis/soc-honeypot/tree/main)
-- ### [*Unauthorized Tor Browser Usage*](https://github.com/brianalwillis/threat-hunting-scenario-tor/blob/main/README.md)
-- ### [*Escalation of Privileges and Data Exfiltration*](https://github.com/brianalwillis/incident-response-linux/blob/main/README.md)
-</br>
+### • [*Implementing a SOC and Honeypot in Microsoft Azure*](https://github.com/brianalwillis/soc-honeypot/tree/main)</br> • [*Unauthorized Tor Browser Usage*](https://github.com/brianalwillis/threat-hunting-scenario-tor/blob/main/README.md)</br> • [*Escalation of Privileges and Data Exfiltration*](https://github.com/brianalwillis/incident-response-linux/blob/main/README.md)
 
 ```
 TECHNOLOGY AND PLATFORMS USED:
@@ -49,8 +39,7 @@ Network Security Group (NSG) / Firewall, Windows 10, KQL
 
 ## <code>INFORMATION TECHNOLOGY SUPPORT | HELP DESK</code>
 
-- ### [*IT Support & Troubleshooting*](https://github.com/brianalwillis/it-support)
-</br>
+### • [*IT Support & Troubleshooting*](https://github.com/brianalwillis/it-support)
 
 ```
 ASSISTED WITH:
@@ -59,7 +48,8 @@ Command Line Tools, Troubleshooting, Documentation Clarification
 ```
 
 ## <code>TRYHACKME</code>
-- ### [*TryHackMe Learning Journey*](https://github.com/brianalwillis/try-hack-me/tree/main)
+
+### • [*TryHackMe Learning Journey*](https://github.com/brianalwillis/try-hack-me/tree/main)
 
 ## <code>TECHNICAL SKILLS</code>
 
