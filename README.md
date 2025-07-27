@@ -14,8 +14,8 @@
 
 ```
 TECHNOLOGY AND PLATFORMS USED:
-VirtualBox, Windows 10, Server 2019, Kali Linux, Ubuntu 22.04, Splunk, Sysmon, Active Directory, Powershell, Bash,
-Thunderbird, Bitdefender, Email Analysis Tools, Wireshark, Telnet, SSH, TCP/IP, DNS, HTTP/HTTPS, ARP, ICMP
+     VirtualBox, Windows 10, Server 2019, Kali Linux, Ubuntu 22.04, Splunk, Sysmon, Active Directory, Powershell, Bash,
+     Thunderbird, Bitdefender, Email Analysis Tools, Wireshark, Telnet, SSH, TCP/IP, DNS, HTTP/HTTPS, ARP, ICMP
 ```
 
 ## <code>VULNERABILITY MANAGEMENT | REMEDIATIONS</code>
@@ -24,7 +24,7 @@ Thunderbird, Bitdefender, Email Analysis Tools, Wireshark, Telnet, SSH, TCP/IP, 
 
 ```
 TECHNOLOGY AND PLATFORMS USED:
-Tenable Nessus, Microsoft Azure, Windows 10, Python, Powershell, Bash
+     Tenable Nessus, Microsoft Azure, Windows 10, Python, Powershell, Bash
 ```
 
 ## <code>SECURITY OPERATIONS | THREAT HUNTING | INCIDENT RESPONSE</code>
@@ -33,8 +33,8 @@ Tenable Nessus, Microsoft Azure, Windows 10, Python, Powershell, Bash
 
 ```
 TECHNOLOGY AND PLATFORMS USED:
-Microsoft Azure, Log Analytics Workspace, Microsoft Sentinel (SIEM), Microsoft Defender for Endpoint (EDR),
-Network Security Group (NSG) / Firewall, Windows 10, KQL
+     Microsoft Azure, Log Analytics Workspace, Microsoft Sentinel (SIEM), Microsoft Defender for Endpoint (EDR),
+     Network Security Group (NSG) / Firewall, Windows 10, KQL
 ```
 
 ## <code>INFORMATION TECHNOLOGY SUPPORT | HELP DESK</code>
@@ -43,8 +43,8 @@ Network Security Group (NSG) / Firewall, Windows 10, KQL
 
 ```
 ASSISTED WITH:
-Windows OS, Linux, Microsoft Azure, Microsoft Defender for Endpoint, Tenable/Nessus, ANKI, NSG/Firewalls,
-Command Line Tools, Troubleshooting, Documentation Clarification
+     Windows OS, Linux, Microsoft Azure, Microsoft Defender for Endpoint, Tenable/Nessus, ANKI, NSG/Firewalls,
+     Command Line Tools, Troubleshooting, Documentation Clarification
 ```
 
 ## <code>TRYHACKME</code>
