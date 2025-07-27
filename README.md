@@ -58,6 +58,9 @@ Windows OS, Linux, Microsoft Azure, Microsoft Defender for Endpoint, Tenable/Nes
 Command Line Tools, Troubleshooting, Documentation Clarification
 ```
 
+## <code>TRYHACKME</code>
+- ### [*TryHackMe Learning Journey*](https://github.com/brianalwillis/try-hack-me/tree/main)
+
 ## <code>TECHNICAL SKILLS</code>
 
 ![Tenable](https://img.shields.io/badge/-Tenable-242B75?style=flat-square&logo=Tenable) 
