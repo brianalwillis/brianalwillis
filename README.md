@@ -29,8 +29,7 @@ TECHNOLOGY AND PLATFORMS USED:
 
 ## <code>SECURITY OPERATIONS | THREAT HUNTING | INCIDENT RESPONSE</code>
 
-### • [*Implementing a SOC and Honeypot in Microsoft Azure*](https://github.com/brianalwillis/soc-honeypot/tree/main)</br> • [*Unauthorized Tor Browser Usage*](https://github.com/brianalwillis/threat-hunting-scenario-tor/blob/main/README.md)</br> • [*Escalation of Privileges and Data Exfiltration*](https://github.com/brianalwillis/incident-response-linux/blob/main/README.md)
-
+### • [*Implementing a SOC and Honeypot in Microsoft Azure*](https://github.com/brianalwillis/soc-honeypot/tree/main)</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [*1 Week Results*](https://github.com/brianalwillis/soc-honeypot/blob/main/1-week-results.md)</br> • [*Unauthorized Tor Browser Usage*](https://github.com/brianalwillis/threat-hunting-scenario-tor/blob/main/README.md)</br> • [*Escalation of Privileges and Data Exfiltration*](https://github.com/brianalwillis/incident-response-linux/blob/main/README.md)
 ```
 TECHNOLOGY AND PLATFORMS USED:
      Microsoft Azure, Log Analytics Workspace, Microsoft Sentinel (SIEM), Microsoft Defender for Endpoint (EDR),
