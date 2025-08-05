@@ -27,7 +27,7 @@ TECHNOLOGY AND PLATFORMS USED:
      Tenable Nessus, Microsoft Azure, Windows 10, Python, Powershell, Bash
 ```
 
-## <code>SECURITY OPERATIONS | THREAT HUNTING | INCIDENT RESPONSE</code>
+## <code>SECURITY OPERATIONS | THREAT DETECTION | INCIDENT RESPONSE</code>
 
 ### • [*Implementing a SOC and Honeypot in Microsoft Azure*](https://github.com/brianalwillis/soc-honeypot/tree/main)</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [*1 Week Results*](https://github.com/brianalwillis/soc-honeypot/blob/main/1-week-results.md)</br> • [*Unauthorized Tor Browser Usage*](https://github.com/brianalwillis/threat-hunting-scenario-tor/blob/main/README.md)</br> • [*Escalation of Privileges and Data Exfiltration*](https://github.com/brianalwillis/incident-response-linux/blob/main/README.md)
 ```
