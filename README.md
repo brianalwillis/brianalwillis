@@ -8,6 +8,10 @@
 ### *Bachelor of Science in Information Technology*
 ### [*CompTIA A+*](https://www.credly.com/earner/earned/badge/b053f3c0-6e80-4d2e-bb8c-f8f4f8172a40)</br>[*CompTIA Network+*](https://www.credly.com/earner/earned/badge/8ca33678-28c0-4119-b5b4-822a320eb803)</br>[*CompTIA Security+*](https://www.credly.com/earner/earned/badge/da5ce54c-26da-4b7e-849b-182c826863c5)</br>[*AWS Certified Cloud Practitioner*](https://www.credly.com/earner/earned/badge/6f187de9-6d92-4634-b4a7-d0c02943d1af)</br>[*Linux Essentials*](https://www.credly.com/earner/earned/badge/043dea14-3383-4b88-86bd-e26f7be1d630)</br>[*Google Cybersecurity Professional*](https://www.credly.com/earner/earned/badge/bbe5b941-760f-4552-803f-c85c04d2a9c9)</br>*ITIL 4 Foundation*</br>*OCI Foundation*
 
+## <code>COMPLIANCE | SOC 2</code>
+
+### • [*SOC 2 Readiness Assessment*](https://github.com/brianalwillis/compliance/tree/main)
+
 ## <code>HOME LAB PROJECTS</code>
 
 ### • [*Creating a Home Lab*](https://github.com/brianalwillis/virtual-home-lab/blob/main/README.md)</br> • [*Attack and Defense*](https://github.com/brianalwillis/virtual-home-lab/blob/main/attack-defend.md)</br> • [*Active Directory*](https://github.com/brianalwillis/virtual-home-lab/blob/main/active-directory.md)</br> • [*Phishing Email Analysis*](https://github.com/brianalwillis/phishing-email-analysis/blob/main/README.md)</br> • [*Wireshark Packet Analysis*](https://github.com/brianalwillis/wireshark-packet-analysis/tree/main)
